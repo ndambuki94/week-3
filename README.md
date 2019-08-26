@@ -9,6 +9,12 @@ This application has been created to help people to get different services accor
 3. Deploy project link to GitHub repository using: git push origin gh-pages
 4. To visit the website use the link: https://ndambuki94.github.io/delaniStudio/
 5. I do create also javascript folder containing jQuery framework and local one to interact with html for both input and output the result.
+## BDD
+| Behavior Our program should handle             | Input Example When it Receives | Output Example When it Receives     |
+|------------------------------------------------|--------------------------------|-------------------------------------|
+| User required to enters invalid name and email in the form | click on photo         | name and email invalid              |
+| User required to enters valid mail and email in the form   | email: example@gmail.com name: Oness | name and email valid                |
+| User required to enters text in the message text area      |  Hi John form submitted           | Thank you for submitting your form. |
 ## Dependancies
 1. Page layout is depending on bootstrap and css
 2. The project fonctionality is depending on jQuery and DOM managment at side of html 
