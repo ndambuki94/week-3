@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css?family=Courgette|Great+Vibes|Jacques+Francois+Shadow|Kalam|Open+Sans|Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Courgette|Great+Vibes|Jacques+Francois+Shadow|Kalam|Open+Sans|Rajdhani|Roboto&display=swap');
+
+@media only screen and (max-width:480px){
+}
+body{
+    margin: 10px;
+    
+}
+.headSection{
+    background-image: url('../images/head.jpg');
+    text-align: center;
+    background-size: cover;
+    height: 100vh;
+    padding-bottom: 100px;
+    padding-top: 300px;
+    color: white;
+    line-height: 100px;
+ 
+}
+.aboutUs{
+    text-align: center;
+    margin-top: 40px;
+}
+
+.services{
+    background-image: url('../images/service.jpg');
+    text-align: center;
+    color:white;
+    height: 50vh;
+    margin-top: 40px;
+    padding-top: 80px;
+    background-size: cover;
+}
+.whatWeDo{
+    margin-top: 40px;
+    text-align: center;
+    background-size: cover;
+  
+}
+
+ #col5,#col6,#col7,#col8{
+    margin-top: 40px;
+ }
+.ContactUs{
+    background-image: url("../images/contactus.jpg");
+    background-size: cover;
+    min-height: 60vh;
+    margin-top: 40px;
+    text-align: center;
+    align-items: center;
+    color: white;
+    /* padding: 40px; */
+
+}
+form.contacts{
+    margin: auto;
+    /* margin-left: 200px;
+    margin-right: 200px; */
+    width:50%;
+    background: transparent;
+    padding-bottom: 10px;
+}
+form.contacts input,form.contacts textarea,button{
+    background: transparent;
+    margin-top:10px;
+    color:white;
+    
+}
+
+button{
+    padding-top: 10px;
+}
+.portfolio{
+   margin: auto;
+   text-align: center; 
+   /* width: 1200px;  */
+   margin-top: 40px;
+   display: center;
+}
+input[type="text"]::-webkit-input-placeholder {
+    color: white;
+}
+textarea[type="text"]::-webkit-input-placeholder{
+    color:white;
+}
+
+
+h1{
+    font-family: 'Rajdhani', sans-serif;
+}
+ #mouse{
+     padding-top: 180px;
+
+ }
+ .col-md-4>p{
+     display:none;
+ }
+.second-cls{
+  
+    height: 150px;
+}
+.description1,.description2,.description3{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    
+}
+h2{
+    margin-left: 40px;
+    text-align: center;
+    font-size: 20px;
+}
+.welcome{
+    font-size: 35px;
+}
+.amaizing{
+    line-height:10px;
+}
+
+.col-md-3>p{
+    display:none;
+}
+.social,.footer{
+    text-align: center;
+    padding-top: 30px;
+}
