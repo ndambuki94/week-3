@@ -21,4 +21,4 @@ This application has been created to help people to get different services accor
 6. jQuerry : Which is a JavaScript library.
 Have a comment , question or something to share  feel free to contact me using : E-mail:ndambuki94@gmail.com
 ### Copyright and license information
-Copyright (c) 2019 **Onesmus, Moringa School** 
+Copyright (c) 2019 **Onesmus Nzilani, Moringa School Kenya** 
