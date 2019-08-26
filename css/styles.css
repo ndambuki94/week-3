@@ -90,7 +90,7 @@ h1{
     font-family: monospace ;
 }
  #mouse{
-     padding-top: 180px;
+     /* padding-top: 180px; */
 
  }
  .col-md-4>p{
@@ -124,3 +124,4 @@ h2{
     text-align: center;
     padding-top: 30px;
 }
+
