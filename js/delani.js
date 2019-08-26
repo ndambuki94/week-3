@@ -26,7 +26,7 @@ $(document).ready(function() {
                     $('#textareaInput').after('<span class="error">This field is required</span>');
                 }  else {
 
-                        alert("Dear " +inputData+" we have received your message and thank you for contacting us.");
+                        alert("Hello " +inputData+" we have received your message and thank you for contacting us.");
                         $("#form")[0].reset();
                     }
                 }
