@@ -87,7 +87,7 @@ textarea[type="text"]::-webkit-input-placeholder{
 
 
 h1{
-    font-family: 'Rajdhani', sans-serif;
+    font-family: monospace ;
 }
  #mouse{
      padding-top: 180px;
